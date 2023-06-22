@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "firstName": "Cristian",
+    "lastName": "Casper",
+    "fullName": "Cristian Casper",
+    "profilePicture": {
+        "original": "http:\/\/localhost:8000\/storage\/1\/media-libraryruspeP",
+        "thumbXs": "http:\/\/localhost:8000\/storage\/1\/conversions\/media-libraryruspeP-thumb_xs.jpg",
+        "thumbSm": "http:\/\/localhost:8000\/storage\/1\/conversions\/media-libraryruspeP-thumb_sm.jpg",
+        "thumbMd": "http:\/\/localhost:8000\/storage\/1\/conversions\/media-libraryruspeP-thumb_md.jpg",
+        "thumbLg": "http:\/\/localhost:8000\/storage\/1\/conversions\/media-libraryruspeP-thumb_lg.jpg"
+    },
+    "email": "murphy.jacobson15265@owow.io",
+    "roles": []
+}

@@ -1,0 +1,5 @@
+device: Macintosh
+platform: 'OS X'
+platform_version: '10_15_7'
+browser: Chrome
+browser_version: 91.0.4472.114

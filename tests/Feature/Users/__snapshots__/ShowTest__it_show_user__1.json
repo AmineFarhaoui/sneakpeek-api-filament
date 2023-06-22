@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "firstName": "Emerald",
+    "lastName": "Zemlak",
+    "fullName": "Emerald Zemlak",
+    "profilePicture": {
+        "original": "http:\/\/localhost:8000\/storage\/1\/some_image",
+        "thumbXs": "http:\/\/localhost:8000\/storage\/1\/conversions\/some_image-thumb_xs.jpg",
+        "thumbSm": "http:\/\/localhost:8000\/storage\/1\/conversions\/some_image-thumb_sm.jpg",
+        "thumbMd": "http:\/\/localhost:8000\/storage\/1\/conversions\/some_image-thumb_md.jpg",
+        "thumbLg": "http:\/\/localhost:8000\/storage\/1\/conversions\/some_image-thumb_lg.jpg"
+    },
+    "email": "ebartell56378@owow.io"
+}

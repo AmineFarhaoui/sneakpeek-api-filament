@@ -1,0 +1,32 @@
+[
+    {
+        "ip_address": "14.177.66.102",
+        "user_agent": {
+            "device": "Macintosh",
+            "platform": "OS X",
+            "platform_version": "10_15_7",
+            "browser": "Chrome",
+            "browser_version": "91.0.4472.114"
+        }
+    },
+    {
+        "ip_address": "154.221.0.97",
+        "user_agent": {
+            "device": "Macintosh",
+            "platform": "OS X",
+            "platform_version": "10_15_7",
+            "browser": "Chrome",
+            "browser_version": "91.0.4472.114"
+        }
+    },
+    {
+        "ip_address": "113.135.136.226",
+        "user_agent": {
+            "device": "Macintosh",
+            "platform": "OS X",
+            "platform_version": "10_15_7",
+            "browser": "Chrome",
+            "browser_version": "91.0.4472.114"
+        }
+    }
+]
